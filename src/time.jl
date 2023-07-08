@@ -25,6 +25,9 @@ export get_Δat
 #                                        Constants
 ############################################################################################
 
+"""
+    Table containing the leap seconds between UTC and the International Atomic Time (TAI).
+"""
 # Table containing the leap seconds between UTC and the International Atomic Time (TAI).
 # Notice that only the dates in which an increment in the leap seconds occurred should be
 # added to this table.
